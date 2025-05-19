@@ -3,7 +3,7 @@
   Simply Saddles
 </h1>
 <p align="center">
-<a href="https://github.com/IViddyy/simply-saddles/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Tschipcraft/dynamiclights?style=for-the-badge&labelColor=000000&color=ffcc00"></a>
+<a href="https://github.com/IViddyy/simply-saddles/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/IViddyy/simply-saddles?style=for-the-badge&labelColor=000000&color=ffcc00"></a>
 <a href="https://modrinth.com/datapack/simply-saddles"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/simply-saddles?label=Modrinth&style=for-the-badge&logo=modrinth&labelColor=000000"></a>
 <a href="https://github.com/IViddyy/simply-saddles/releases/latest"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/IViddyy/simply-saddles/total?logo=github&style=for-the-badge&labelColor=000000&color=08872B"></a>
 </p>
